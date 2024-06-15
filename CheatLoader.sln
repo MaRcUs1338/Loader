@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheatLoader", "CheatLoader\CheatLoader.csproj", "{73D57EFE-A7C3-4DFD-880F-AADD5F485C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D57EFE-A7C3-4DFD-880F-AADD5F485C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D57EFE-A7C3-4DFD-880F-AADD5F485C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D57EFE-A7C3-4DFD-880F-AADD5F485C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D57EFE-A7C3-4DFD-880F-AADD5F485C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {597D3C78-4A02-40D3-9FD4-65B21F039DC5}
+	EndGlobalSection
+EndGlobal
