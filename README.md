@@ -16,7 +16,7 @@
 
 3. Работа с инжектором лоадера
 ![image](https://github.com/MaRcUs1338/Loader/assets/166511746/f65d0e4d-cf5b-48b9-9146-6fba51b1c12e)
-Тут мы видим проверку на выбранный нами элимент по строке CS2, далее происходит процесс запуска: Process.Start("cmd.exe", "/c Injector.exe SourceEngine.dll cs2.exe");
+Тут мы видим проверку на выбранный нами элемент по строке CS2, далее происходит процесс запуска: Process.Start("cmd.exe", "/c Injector.exe SourceEngine.dll cs2.exe");
 Идет запускать cmd, в котором идет запуск injector.exe и остальными параметрами. Вот как выглядят параметры для инжектора: Injector.exe dll_path processname
 тоесть название инжектора, расположение дллки, если в том же пути, то просто название вашей дллки и расширение, название процесса, пример cs2.exe/explorer.exe/discord.exe и тд(можете посмотреть в диспетчере задач)
 сурс самого инжектора - https://github.com/TheCruZ/Simple-Manual-Map-Injector
